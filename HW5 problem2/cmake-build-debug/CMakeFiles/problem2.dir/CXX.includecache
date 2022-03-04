@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/chamchigod/Documents/computer programming/HW5/problem2/CSI.cpp
+CSI.h
+C:/Users/chamchigod/Documents/computer programming/HW5/problem2/CSI.h
+sstream
+-
+fstream
+-
+
+C:/Users/chamchigod/Documents/computer programming/HW5/problem2/CSI.h
+iostream
+-
+string
+-
+cmath
+-
+
