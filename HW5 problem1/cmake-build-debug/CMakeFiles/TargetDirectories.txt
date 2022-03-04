@@ -1,0 +1,3 @@
+C:/Users/chamchigod/Documents/computer programming/HW5/problem1/cmake-build-debug/CMakeFiles/problem1.dir
+C:/Users/chamchigod/Documents/computer programming/HW5/problem1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chamchigod/Documents/computer programming/HW5/problem1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

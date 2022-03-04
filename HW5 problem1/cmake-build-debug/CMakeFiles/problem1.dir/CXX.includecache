@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/chamchigod/Documents/computer programming/HW5/problem1/header.h
+
+C:/Users/chamchigod/Documents/computer programming/HW5/problem1/main.cpp
+iostream
+-
+iterator
+-
+vector
+-
+header.h
+C:/Users/chamchigod/Documents/computer programming/HW5/problem1/header.h
+
